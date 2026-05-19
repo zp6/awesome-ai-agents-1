@@ -2961,6 +2961,23 @@ General purpose
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
 
+## [RustChain](https://github.com/Scottcjn/Rustchain)
+RustChain: DePIN for Vintage Hardware — AI-Augmented Proof of Real Machines
+
+<details>
+
+### Category
+- DePIN / AI Agents / Blockchain
+
+### Pricing
+- Open Source
+
+### Links
+- [GitHub](https://github.com/Scottcjn/Rustchain)
+- [Website](https://rustchain.org)
+
+</details>
+
 # Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
